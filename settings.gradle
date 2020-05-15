@@ -1,0 +1,2 @@
+rootProject.name='LiYanWeather'
+include ':app'
